@@ -2,9 +2,9 @@
 Repo: [https://github.com/robbyrussell/oh-my-zsh](https://github.com/neovim/neovim)
 
 ### Install
-
-* Using Homebrew: `brew install neovim`
-* Using: `apt-get install neovim`
+* Homebrew: `brew install neovim`
+* Ubuntu: `sudo apt-get install neovim`
+* Fedora: `sudo dnf install neovim`
 
 ### Install vim-plug
 
@@ -22,7 +22,7 @@ Copy the `init.vim` file into `~/.config/nvim/init.vim`
 
 ### Create alias for neovim
 
-In `.bash_profile` file, put
+In `.zshrc` file (if not in there already!), put
 
 ```
 alias vim="nvim"
