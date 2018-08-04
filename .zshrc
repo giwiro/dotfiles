@@ -1,7 +1,4 @@
 ZSH_THEME="robbyrussell"
-plugins = (
-    git
-)
 
 # User configuration                                                                                       
                                                                                                            
