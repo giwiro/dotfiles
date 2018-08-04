@@ -1,8 +1,8 @@
 ZSH_THEME="robbyrussell"
 
-# User configuration                                                                                       
-                                                                                                           
-# Custom Prompt                                                                                            
+# User configuration
+
+# Custom Prompt
 # It's based on robby's
 local ret_status="%(?:%{$fg_bold[green]%}➜ :%{$fg[magenta]%}➜ )"
 PROMPT='%{$fg_bold[green]%}%n%{$fg[cyan]%}:%c%{$reset_color%} $(git_prompt_info)
