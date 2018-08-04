@@ -1,5 +1,5 @@
 # Neovim
-Repo: https://github.com/neovim/neovim
+Repo: [https://github.com/robbyrussell/oh-my-zsh](https://github.com/neovim/neovim)
 
 ### Install
 
@@ -8,7 +8,7 @@ Repo: https://github.com/neovim/neovim
 
 ### Install vim-plug
 
-Repo: https://github.com/junegunn/vim-plug
+Repo: [https://github.com/junegunn/vim-plug](https://github.com/robbyrussell/oh-my-zsh)
 
 Install for neovim in ~/.local
 ```sh
