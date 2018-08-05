@@ -7,6 +7,12 @@ Repo: [https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussel
 
 1. Install `zsh` and change the default shell for the user
 
+   * ### Homebrew
+     ```
+     brew install zsh
+     ```
+     if using iTem2 you have to change it in the ui `Preferences > General > Command > /bin/zsh`
+
    * ### Fedora
 
      ```
