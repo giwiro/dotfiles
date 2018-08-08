@@ -1,5 +1,5 @@
 # Neovim
-Repo: [https://github.com/robbyrussell/oh-my-zsh](https://github.com/neovim/neovim)
+Repo: [https://github.com/neovim/neovim](https://github.com/neovim/neovim)
 
 ### Install
 * Homebrew: `brew install neovim`
@@ -8,7 +8,7 @@ Repo: [https://github.com/robbyrussell/oh-my-zsh](https://github.com/neovim/neov
 
 ### Install vim-plug
 
-Repo: [https://github.com/junegunn/vim-plug](https://github.com/robbyrussell/oh-my-zsh)
+Repo: [https://github.com/junegunn/vim-plug](https://github.com/junegunn/vim-plug)
 
 Install for neovim in ~/.local
 ```sh
