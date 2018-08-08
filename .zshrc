@@ -14,6 +14,8 @@ ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[blue]%}git:(%{$fg_bold[magenta]%}"
 alias vim="nvim"
 alias vi="nvim"
 
+# Set locale english
+export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
