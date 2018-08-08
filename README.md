@@ -11,7 +11,7 @@ Repo: [https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussel
      ```
      brew install zsh
      ```
-     if using iTem2 you have to change it in the ui `Preferences > General > Command > /bin/zsh`
+     if using iTem2 you have to change it in the ui `Preferences > Profile > General > Command > /bin/zsh`
 
    * ### Fedora
 
