@@ -24,7 +24,7 @@ Repo: [https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussel
 
      ```
      sudo apt-get install zsh
-     sudo chsh -s <username>
+     sudo chsh
      ```
 
 2. Install `oh-my-zsh`
