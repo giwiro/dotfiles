@@ -19,6 +19,13 @@ Repo: [https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussel
      sudo dnf install zsh
      sudo lchsh -i <username>
      ```
+     
+   * ### Ubuntu
+
+     ```
+     sudo apt-get install zsh
+     sudo chsh -s <username>
+     ```
 
 2. Install `oh-my-zsh`
 
