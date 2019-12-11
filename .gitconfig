@@ -1,0 +1,10 @@
+[user]
+    email = giwirodavalos@gmail.com
+    name = giwiro
+
+[alias]
+    aa = add -A
+    ci = commit
+    co = checkout
+    st = status
+    graph = log --graph --oneline --decorate --all
